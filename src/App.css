@@ -1,0 +1,41 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: -webkit-center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid #000000;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+}
+.table-side{
+  font-weight: bold;
+}
+/* th {
+  background-color: #f2f2f2;
+} */
